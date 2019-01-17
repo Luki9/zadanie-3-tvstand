@@ -8,4 +8,22 @@ public class Tvstand {
 
 
 
-}
+
+
+
+
+    Tvstand (String n, int d,  int s, int p ){
+
+        name = "i";
+        doors = d;
+        drawers = s ;
+        shelves = p;
+
+
+
+
+
+    }
+
+
+    }
